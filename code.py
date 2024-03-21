@@ -1,2 +1,2 @@
-kissa = "pupu"
+kissa = "mango"
 print(f"Julius {kissa} on keisari")
